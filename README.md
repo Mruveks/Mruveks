@@ -1,4 +1,4 @@
-### Hi I'm Kuba Mrowiec! 👋
+### Hi I'm Kuba! 👋
 
 
 - 🔭 I’m currently working on my portfolio😄
