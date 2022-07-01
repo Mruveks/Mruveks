@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio😄
 - 🌱 I’m currently learning React⚛️ 
-- 📫 How to reach me: Twitter - @Kuba73934419
+- 📫 How to reach me: Email - @Mrowiec.Kuba.mk@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
