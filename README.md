@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working on my portfolio😄
-- 🌱 I’m currently learning React⚛️ 
+- 🌱 I’m currently learning NodeJS and React⚛️
+- 📫 I aspire to be a Web Developer 
 - 📫 How to reach me: Email - @Mrowiec.Kuba.mk@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
