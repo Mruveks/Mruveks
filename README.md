@@ -1,4 +1,4 @@
-# Kuba Mrowiec | Frontend Developer 👨‍💻
+# Kuba | Web Developer 👨‍💻
 
 Crafting engaging user experiences with JavaScript, React, and more. Always learning, always coding!
 
